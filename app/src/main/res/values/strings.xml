@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Cloud Test Android</string>
+    <string name="solution">Solution:</string>
+    <string name="solve">Solve</string>
+
+    <string name="division_by_zero">Division by Zero</string>
+    <string name="unknown_operator">Unknown Operator</string>
+    <string name="input_error">Input Error</string>
+
+</resources>
